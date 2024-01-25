@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-slick": "^0.30.0"
+  },
+  "name": "techieblog",
+  "version": "1.0.0",
+  "description": "techieblogdesc",
+  "main": "App.js",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "Test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sriyamini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/issues"
+  },
+  "homepage": "https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining#readme"
+}

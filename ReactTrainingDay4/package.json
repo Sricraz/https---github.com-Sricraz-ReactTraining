@@ -21,7 +21,8 @@
   "homepage": "https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
   },
   "devDependencies": {
     "process": "^0.11.10"
