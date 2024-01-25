@@ -1,0 +1,16 @@
+#hello-id{
+    color:orange;
+    text-align:center;
+    background-color: grey;
+}
+
+#root{
+    color:orange;
+    text-align:center;
+    background-color: grey;
+}
+
+.btn-class{
+    color:crimson;
+    background-color: bisque;
+}
