@@ -39,14 +39,14 @@ const AddEditBlog = () => {
     }
     if(title && description && imageUrl && category){
       const currentDate = getData();
-      const updatedBlogData ={...FormValue,date: currentDate};
+      //const updatedBlogData ={...FormValue,date: currentDate};
       //const response = await axois.post("http://localhost:5000/blog")
     }
   };
 
   const onInputChange = (e) => {
-    let {name, value} = e.target;
-    setFormValue({...formValue, [name]: value});
+    //let {name, value} = e.target;
+  //  setFormValue({...formValue, [name]: value});
   };
 
   const onUploadImage = (file) => {

@@ -45,6 +45,7 @@ const  Header = () => {
               </MDBNavbarItem>
               <MDBNavbarItem>
               <MDBNavbarLink href="/about" style={{color:"#fff"}}>About</MDBNavbarLink>
+              
               </MDBNavbarItem>
              
             </MDBNavbarNav>

@@ -10,34 +10,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-    width:10%;
-    height: 10%;
-}
-
-.categoryDropdown{
-  width: 100%;
-  border-radius: 4px;
-  height:35px;
-  border-color: #83ccc5;
-}
-
-
-.categoryErrorMsg {
-  color: red;
-  text-align: left;
-  font-size: 14px;
-}
-
-.latest-title {
-  color: black;
-  font-weight: 600;
-  font-family: monospace;
-}
-
-.footer{
-  padding-top:5%;
-}
-
-.foot{
-  background-color: black;
 }
