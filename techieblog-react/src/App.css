@@ -50,6 +50,8 @@
 .card2 {
   /* Add shadows to create the "card" effect */
  display: flex;
+ padding-top: 9%;
+
 }
 
 
@@ -62,4 +64,24 @@
 .container {
   padding: 2px 16px;
   background-color:aquamarine;
+}
+
+.container2 {
+  padding: 2px 16px;
+  background-color:burlywood;
+}
+
+.footer{
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #541b1b;
+   color: white;
+   text-align: center;
+   height:6%
+}
+
+.cont{
+  padding-top:10px  ;
 }

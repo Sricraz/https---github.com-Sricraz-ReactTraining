@@ -24,11 +24,13 @@ function App() {
               <Route path="/blog" element={<Blog/>}/> 
               <Route path="/about" element={<About/>}/>  
               <Route path="*" element={<NotFound/>}/>  
+              
               </Routes>  
-              <Footer className="foot">@copyright 2024</Footer>
+              <Footer/>
+
  
 </div>
-
+              
     </BrowserRouter>
 
   );
