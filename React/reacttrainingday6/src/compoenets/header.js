@@ -3,7 +3,7 @@ import { LOGO_URL } from "../utils/constants";
 
 const Title = () => (
   <a href="/">
-    <img className="logo" src={LOGO_URL} alt="Food Fire Logo" />
+    <img className="logo" src={LOGO_URL} alt="Food Logo" />
   </a>
 );
 
@@ -14,8 +14,8 @@ const header = () => {
       <div className="nav-items">
         <ul>
           <li>Home</li>
-          <li>About Us</li>
-          <li>Contact Us</li>
+          <li>Food Order</li>
+          <li>Settings</li>
           <li>
             <i className="fa-solid fa-cart-shopping"></i>
           </li>
