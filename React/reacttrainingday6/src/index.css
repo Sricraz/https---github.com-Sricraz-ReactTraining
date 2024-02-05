@@ -7,6 +7,8 @@
 
 .logo{
   width: 69%;
+  padding-top: 4px;
+  padding-left:2px;
 }
 
 .nav-items{
@@ -48,6 +50,7 @@
 
 .res-logo{
   width: 100%;
+  height: 64%;
 }
 
 .filter-btn{
