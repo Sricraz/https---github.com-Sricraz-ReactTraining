@@ -31,7 +31,6 @@ const title2 = <h1>React JSX is an embeddable XML-like syntax </h1>;
 
 const HeadingComponent2 = () => (
   <div>
-    {2 + 6}
     {title2}
     <Title />
     <h1 className="head" id="heading">

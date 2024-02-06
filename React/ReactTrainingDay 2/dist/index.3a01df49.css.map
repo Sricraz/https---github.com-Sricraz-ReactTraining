@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAMA","sources":["style.css"],"sourcesContent":["#heading{\r\n    color:chocolate ;\r\n    background-color: cadetblue;\r\n    text-align: center;\r\n}\r\n\r\n#heading2{\r\n    color: burlywood;\r\n    background-color: blue;\r\n    text-align: center;\r\n\r\n}"],"names":[],"version":3,"file":"index.3a01df49.css.map","sourceRoot":"/__parcel_source_root/"}

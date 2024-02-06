@@ -31,7 +31,7 @@ const Body = () => {
   }, []);
 
   if (listOfRestaurants.length === 0) {
-    return <Shimmer row={5} col={5} />;
+    return <Shimmer  />;
   }
   return (
     <div className="body">
@@ -46,6 +46,7 @@ const Body = () => {
         >
           Top Rated
         </button>
+        
       </div>
       <div className="res-container">
         {listOfRestaurants.map((resObj) => (
