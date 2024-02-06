@@ -1,21 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-// React Element : just like DOM Elements
-// React.CreateElement creates an object => when we render it on DOM, then it becomes an HTML element
-// what ever happen in react will happen inside root
-
-// JSX- React Element
 const jsxHeading = (
   <h1 className="head" id="heading">
-    React using jsx
+    React jsx is a JavaScript syntax extension
   </h1>
 );
 
 const HeadingComponentFunc = function () {
   return (
     <h1 className="head" id="heading">
-      React using jsx
+       It is a JavaScript extension that allows us to describe React's object tree using a
+        syntax that resembles that of an HTML template
     </h1>
   );
 };
@@ -29,9 +25,9 @@ const HeadingComponent = () => {
   );
 };
 
-const Title = () => <h1>Title</h1>;
+const Title = () => <h1>React Training Day 4</h1>;
 
-const title2 = <h1>Title 2</h1>;
+const title2 = <h1>React JSX is an embeddable XML-like syntax </h1>;
 
 const HeadingComponent2 = () => (
   <div>
@@ -39,13 +35,12 @@ const HeadingComponent2 = () => (
     {title2}
     <Title />
     <h1 className="head" id="heading">
-      React using jsx
+      React JSX is a syntactic sugar of the React. 
     </h1>
   </div>
 );
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-// root.render(jsxHeading);
-root.render(<HeadingComponent2 />); //this is what babel understands
+root.render(<HeadingComponent2 />);
 
