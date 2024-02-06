@@ -6,9 +6,9 @@
 }
 
 .logo{
-  width: 69%;
+  width: 49%;
   padding-top: 4px;
-  padding-left:2px;
+  padding-left: 2px;
 }
 
 .nav-items{
@@ -86,8 +86,16 @@
 }
 
 .shimmer-card{
-  width: 200px;
-  height: 400px;
+  display: flex;
+  flex-wrap: nowrap;
+  cursor: pointer;
+  border: 1px solid white;
+ 
+}
+
+.shimmer-card{
+  width: 300px;
+  height: 300px;
+  background-color: #f0f0f0;
   margin: 20px;
-  background-color:#f0f0f0;
 }

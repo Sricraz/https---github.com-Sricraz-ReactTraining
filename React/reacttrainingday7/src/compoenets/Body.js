@@ -31,7 +31,7 @@ const Body = () => {
   }, []);
 
   if (listOfRestaurants.length === 0) {
-    return <Shimmer />;
+    return <Shimmer row={5} col={5} />;
   }
   return (
     <div className="body">
