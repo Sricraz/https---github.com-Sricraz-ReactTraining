@@ -4,7 +4,8 @@
   "description": "reacttrainingday5 description",
   "main": "App.js",
   "scripts": {
-    "test": "Test"
+    "test": "Test",
+    "start":"parcel index.html"
   },
   "repository": {
     "type": "git",
