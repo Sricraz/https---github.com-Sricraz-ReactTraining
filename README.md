@@ -18,8 +18,9 @@ src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/
 <img width="956" alt="Day6" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/9ee89013-f0d4-4804-8017-2640d2bd62be">
 
 <h4>Day 7</h4>
-<img width="938" alt="Day 7(1)" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/cbf1b883-c0e7-4145-83d7-daa15979a583">
 <img width="949" alt="Day7" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/a55e6826-da7d-4d4c-aeaa-47f93a1a7a26">
+<img width="938" alt="Day 7(1)" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/cbf1b883-c0e7-4145-83d7-daa15979a583">
+
 
 <h4>Techie Blog</h4>
 <img width="960" alt="Techie Blog" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/6bc8ff93-c8b3-4658-b4a5-ceaec0d44d9e">
