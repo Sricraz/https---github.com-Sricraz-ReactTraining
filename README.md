@@ -16,8 +16,7 @@ src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/
 
 <h4>Day 5</h4>
 
-<img width="948" alt="Day5" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/9a52e601-fb45-4a8f-a7cd-b58bb7b48b93">
-<img width="545" alt="Day 5(1)" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/dfb002df-ae08-4a4d-8e86-1132169fee7b">
+<img width="944" alt="Day 5 -- 111" src="https://github.com/Sricraz/https---github.com-Sricraz-ReactTraining/assets/157680925/d0831edf-3ded-4cbd-9d3f-1d8009925a5d">
 
 <h4>Day 6</h4>
 
