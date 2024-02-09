@@ -2,15 +2,15 @@ export const resList = [
   {
     info: {
       id: "523613",
-      name: "Burger King",
-      cloudinaryImageId: "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+      name: "Mcdondles",
+      cloudinaryImageId: "03501c33ecb3a3105124441e541e6fe4",
       locality: "Lulu Mall",
       areaName: "LuLu Mall",
       costForTwo: "₹350 for two",
-      cuisines: ["Burgers", "American"],
-      avgRating: 4.3,
+      cuisines: ["Mcdondles", "Burger"],
+      avgRating: 3.3,
       parentId: "166",
-      avgRatingString: "4.3",
+      avgRatingString: "3.3",
       totalRatingsString: "1K+",
       sla: {
         deliveryTime: 40,
@@ -69,15 +69,15 @@ export const resList = [
   {
     info: {
       id: "429782",
-      name: "Pizza Hut",
-      cloudinaryImageId: "2b4f62d606d1b2bfba9ba9e5386fabb7",
+      name: "Oven story",
+      cloudinaryImageId: "nfrkux2t6otpiu2irsod",
       locality: "Lulu Mall",
       areaName: "Kumarapuram",
       costForTwo: "₹350 for two",
       cuisines: ["Pizzas"],
-      avgRating: 4.3,
+      avgRating: "3.2",
       parentId: "721",
-      avgRatingString: "4.3",
+      avgRatingString: "3.2",
       totalRatingsString: "500+",
       sla: {
         deliveryTime: 38,
@@ -136,11 +136,11 @@ export const resList = [
   {
     info: {
       id: "454138",
-      name: "Starbucks Coffee",
-      cloudinaryImageId: "182191ab163770437b62861a6f987709",
+      name: "Sea Shell",
+      cloudinaryImageId: "mioi0p4orhzvwlvyqr7h",
       locality: "Kochuveli",
       areaName: "Kumarapuram",
-      costForTwo: "₹400 for two",
+      costForTwo: "₹800 for two",
       cuisines: [
         "Beverages",
         "Cafe",
@@ -210,12 +210,12 @@ export const resList = [
   {
     info: {
       id: "433683",
-      name: "7th Heaven",
-      cloudinaryImageId: "ki0t9puuayllkatgp4pb",
+      name: "Shree Mithai",
+      cloudinaryImageId: "cxmaeqlyleysefcdx9nk",
       locality: "Janatha Business Centre",
       areaName: "Kazhakkoottam",
-      costForTwo: "₹200 for two",
-      cuisines: ["Desserts", "Burgers", "Ice Cream", "Pizzas"],
+      costForTwo: "₹300 for two",
+      cuisines: ["Chats", "badam Milk", "Dosa", "Idly"],
       avgRating: 4.2,
       veg: true,
       parentId: "19",
@@ -275,12 +275,12 @@ export const resList = [
   {
     info: {
       id: "751799",
-      name: "Crumbs",
-      cloudinaryImageId: "80d3024589ed6aefeb518b810af4d4cd",
+      name: "TaiBha",
+      cloudinaryImageId: "6930b7784a753e0132370a95ce3b64a1",
       locality: "Venpalavattom",
       areaName: "Technopark",
       costForTwo: "₹200 for two",
-      cuisines: ["Bakery", "Desserts"],
+      cuisines: ["Briyani", "Rice"],
       veg: true,
       parentId: "66374",
       avgRatingString: "NEW",

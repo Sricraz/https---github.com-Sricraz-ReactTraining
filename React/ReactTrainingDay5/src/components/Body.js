@@ -8,9 +8,7 @@ const Body = () =>{
     return (
     <div className="body">
         <div className="res-container">
-        {/* {listOfRestaurants.map((resObj) => (
-          <RestaurantCard resData={resObj} />
-        ))} */}
+        
  
         {
           resList.map((res) => (
