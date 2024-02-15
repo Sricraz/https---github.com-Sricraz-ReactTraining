@@ -14,8 +14,8 @@ const header = () => {
       <Title />
       <div className="nav-items">
         <ul>
-          <li>Home</li>
-          <li>Food Order</li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/foodOrder">Food Order</a></li>
           <li>Settings</li>
         </ul>
       </div>
